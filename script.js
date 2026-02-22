@@ -6,10 +6,10 @@ const products = [
     link: "https://www.amazon.com/dp/PRODUCT-ID?tag=YOUR_AMAZON_AFFILIATE_LINK"
   },
   {
-    name: "Smart Watch",
+    name: "Mobile Phone",
     price: "$89.99",
     image: "https://via.placeholder.com/300",
-    link: "https://www.amazon.com/dp/PRODUCT-ID?tag=YOUR_AMAZON_AFFILIATE_LINK"
+    link: "https://amzn.to/46jAjT6"
   },
   {
     name: "Bluetooth Speaker",
@@ -35,4 +35,5 @@ products.forEach(product => {
   `;
 
   productList.appendChild(div);
+
 });
