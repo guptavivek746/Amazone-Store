@@ -9,7 +9,7 @@ const products = [
     name: "Mobile Phone",
     price: "$89.99",
     image: "https://via.placeholder.com/300",
-    link: "https://amzn.to/46jAjT6"
+    link: "https://www.amazon.in/s?k=best+phone+under+20k&crid=X7CFMUHXAIHE&sprefix=best%2Caps%2C392&linkCode=ll2&tag=myamazonst0cf-21&linkId=af88b0e72ccd737c8336810ed4586dda&ref_=as_li_ss_tl"
   },
   {
     name: "Bluetooth Speaker",
@@ -37,3 +37,4 @@ products.forEach(product => {
   productList.appendChild(div);
 
 });
+
